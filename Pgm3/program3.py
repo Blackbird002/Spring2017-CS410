@@ -2,7 +2,7 @@
 #ID: n845y337
 #Program #3
 #CS 410
-#Description: This program encodes a user defined message and shits each character
+#Description: This program encodes a user defined message and shifts each character
 #along the alphabet using a user defined key that contains a number that indicates
 #how many shifts to shift each character in the message. Only the characters a-z and
 #characters A-Z get encoded. Numbers and other special characters other than the ones
